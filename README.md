@@ -25,3 +25,7 @@ Label Me annotation tool: http://labelme.csail.mit.edu/Release3.0/
 * NiftyNet (Shan)
 
 * Naive Bayesian classifiers
+
+# Loss functions for training
+
+# Metrics for inference
