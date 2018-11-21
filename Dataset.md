@@ -1,6 +1,9 @@
 Average duration of the videos:
+
 Interval for image capture: 2Hz
+
 Image resolution: 352 x 240
+
 Number of videos (or images): 12
 
 Note: Keep surgeon hands
