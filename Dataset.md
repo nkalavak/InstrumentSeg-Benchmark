@@ -8,6 +8,8 @@ Number of videos (or images): 12
 
 Note: Keep surgeon hands
 
+Number of images per video: 
+
 # Classes of instruments
  1. Suction (Surgeon vs. Assistant)
  2. Grapser (Left vs Right)
