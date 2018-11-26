@@ -8,6 +8,9 @@ Label Me annotation tool: http://labelme.csail.mit.edu/Release3.0/
 
 ### Color assignments
 
+## Code
+1. getFrames.py: Get the frames from video.
+2. getMasks.py: Generate masks from .xml files.
 
 ## Methods
 
