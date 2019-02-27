@@ -28,7 +28,18 @@ Label Me annotation tool: http://labelme.csail.mit.edu/Release3.0/
 * NiftyNet (Shan)
 
 * Naive Bayesian classifiers
+* BiSeNet (Nivii)
+* AdapNet (Nivii)
+* FRRN (Nivii)
 
 # Loss functions for training
+* Binary Cross-entropy
 
 # Metrics for inference
+1. Precision
+2. Recall
+3. F1 score
+4. Average accuracy
+5. Per-class accuracy
+6. Mean IoU
+7. Jaccard Index
