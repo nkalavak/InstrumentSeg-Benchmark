@@ -1,3 +1,12 @@
+#!/usr/bin/python
+# encoding: utf-8
+
+"""
+Written by Niveditha Kalavakonda (nkalavak@uw.edu)
+February 2019
+"""
+
+
 from __future__ import print_function
 import os,time,cv2, sys, math
 import tensorflow as tf
