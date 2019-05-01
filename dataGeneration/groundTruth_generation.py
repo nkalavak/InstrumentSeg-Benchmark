@@ -92,7 +92,7 @@ for img in range(start_image_index, start_image_index + n_images):
             #print (y)
 
             points = zip(x,y)
-            """if(neighbor.find('name').text == 'suction' and (neighbor.find('attributes').text == 'surgeon suction' or neighbor.find('attributes').text == None)):
+            if(neighbor.find('name').text == 'suction' and (neighbor.find('attributes').text == 'surgeon suction' or neighbor.find('attributes').text == None)):
                 poly1_s = mplPath.Path(list(points))
             if(neighbor.find('name').text == 'suction' and neighbor.find('attributes').text == 'assistant suction'):
                 poly1_a = mplPath.Path(list(points))
@@ -117,8 +117,8 @@ for img in range(start_image_index, start_image_index + n_images):
             if(neighbor.find('name').text == 'drill'):
                 poly7 = mplPath.Path(list(points))
             if(neighbor.find('name').text == 'others'):
-                poly8 = mplPath.Path(list(points))"""
-            if(neighbor.find('name').text == 'surgeon suction' or neighbor.find('name').text == 'suction'):
+                poly8 = mplPath.Path(list(points))
+            """if(neighbor.find('name').text == 'surgeon suction' or neighbor.find('name').text == 'suction'):
                 poly1_s = mplPath.Path(list(points))
             if(neighbor.find('name').text == 'assistant suction'):
                 poly1_a = mplPath.Path(list(points))
@@ -143,7 +143,7 @@ for img in range(start_image_index, start_image_index + n_images):
             if(neighbor.find('name').text == 'drill'):
                 poly7 = mplPath.Path(list(points))
             if(neighbor.find('name').text == 'others'):
-                poly8 = mplPath.Path(list(points))
+                poly8 = mplPath.Path(list(points))"""
 
             x[:] = []
             y[:] = []
